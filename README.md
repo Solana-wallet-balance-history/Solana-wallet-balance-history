@@ -136,4 +136,6 @@ The application can be controlled through command-line arguments:
 
 This project is released under the [MIT License](/LICENSE). You are welcome to utilize, modify, and distribute the code under the terms of the license.
 
-Update:  16.06.2025 05:36:17
+
+
+Update: url is now active
